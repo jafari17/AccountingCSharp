@@ -1,0 +1,6 @@
+C:\Users\RED\Documents\app-CSharp\pishrafte\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+C:\Users\RED\Documents\app-CSharp\pishrafte\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+C:\Users\RED\Documents\app-CSharp\pishrafte\Accounting\Accounting.utility\obj\Debug\Accounting.utility.csproj.AssemblyReference.cache
+C:\Users\RED\Documents\app-CSharp\pishrafte\Accounting\Accounting.utility\obj\Debug\Accounting.utility.csproj.CoreCompileInputs.cache
+C:\Users\RED\Documents\app-CSharp\pishrafte\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+C:\Users\RED\Documents\app-CSharp\pishrafte\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
